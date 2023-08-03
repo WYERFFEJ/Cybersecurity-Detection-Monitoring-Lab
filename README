@@ -1,0 +1,9 @@
+## Building a Cybersecurity Homelab for Detection & Monitoring
+
+## Contents
+- Installing VMware Workstation as hypervisor
+- Configuring pfSense firewall for Network Segmentation & Security
+- Configuring Security Onion as an all-in-one IDS, Security Monitoring, and Log Management solution
+- Configuring Kali Linux as an attack machine
+
+
